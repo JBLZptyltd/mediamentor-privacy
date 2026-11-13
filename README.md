@@ -1,9 +1,13 @@
-# MediaMentor — Privacy Policy
+# MediaMentor — privacy policy and terms
 
-This repository holds one file: the public privacy policy for the MediaMentor
-app, published so the App Store and Google Play can link to it.
+The public legal pages for the MediaMentor app, published so the App Store and
+Google Play can link to them.
 
-Live at <https://triggrsobrietyapp.github.io/mediamentor-privacy/>
+- Privacy policy: <https://jblzptyltd.github.io/mediamentor-privacy/>
+- Terms of service: <https://jblzptyltd.github.io/mediamentor-privacy/terms.html>
+
+Generated from `docs/PRIVACY_POLICY.md` and `docs/TERMS_OF_SERVICE.md` in the
+app repository by `scripts/build_policy_pages.py`. Edit those, not these.
 
 No application source code lives here.
 
