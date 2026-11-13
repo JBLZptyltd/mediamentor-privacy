@@ -5,6 +5,7 @@ Google Play can link to them.
 
 - Privacy policy: <https://jblzptyltd.github.io/mediamentor-privacy/>
 - Terms of service: <https://jblzptyltd.github.io/mediamentor-privacy/terms.html>
+- Deleting an account: <https://jblzptyltd.github.io/mediamentor-privacy/delete-account.html>
 
 Generated from `docs/PRIVACY_POLICY.md` and `docs/TERMS_OF_SERVICE.md` in the
 app repository by `scripts/build_policy_pages.py`. Edit those, not these.
